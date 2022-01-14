@@ -4,7 +4,7 @@
 - 42 Seoul 본과정 (2021.9 ~)
 - <a href="https://github.com/hekoh99/UAV">Purdue 대학 교류 AI 교육 이수 (2021.7 ~ 2021.8) </a>
 - 고려대 스타트업 팀 gochin 초기 개발 참여 (2020.6 ~ 2020.8)
-- 산업보안논문경진대회 은상 수상 (2018)
+- KAIS 산업보안논문경진대회 은상 수상 (2018)
 
 ### 📫 reach me
 <img src="https://img.shields.io/badge/hekoh99@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
