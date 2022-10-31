@@ -7,7 +7,7 @@
 - KAIS 산업보안논문경진대회 은상 수상 (2018)
 
 ### 📫 reach me
-<img src="https://img.shields.io/badge/hekoh99@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
+<img src="https://img.shields.io/badge/haeun.ko99@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
 
 
 ## ⚡ Skills
