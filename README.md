@@ -1,22 +1,47 @@
 # 😎 Profile of Haeun Ko
 
-- 중앙대학교 산업보안학과 사이버보안 융합전공
-- 42 Seoul 본과정 (2021.9 ~)
-- <a href="https://github.com/hekoh99/UAV">Purdue 대학 교류 AI 교육 이수 (2021.7 ~ 2021.8) </a>
-- 고려대 스타트업 팀 gochin 초기 개발 참여 (2020.6 ~ 2020.8)
-- KAIS 산업보안논문경진대회 은상 수상 (2018)
+![Education](https://img.shields.io/badge/Education-B.Sc._Cyber_Security-blue)
+![GPA](https://img.shields.io/badge/GPA-3.95%2F4.5-brightgreen)
+![Learning](https://img.shields.io/badge/Currently_Learning-GoLang-yellow)  
 
-### 📫 reach me
-<img src="https://img.shields.io/badge/haeun.ko99@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
+## 🎓 Education
+**Chung-Ang University**  
+**B.Sc. Cyber Security** | Mar 2018 – Feb 2023  
+- **GPA**: 3.95/4.5  
+- **Graduated CUM LAUDE**  
+  
+<br>
 
+## 💼 Professional Experience
 
-## ⚡ Skills
+### Software Developer  
+![Developer](https://img.shields.io/badge/Role-Software_Developer-blue) <br>
+**PNP Secure Ltd.** | Feb 2023 – Apr 2024  
+- Developed and maintained features for DB access control software.
+- Designed scalable systems to handle high-volume traffic.
+- Led performance improvement initiatives, boosting code and query efficiency.
 
-<img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/> 
+### Backend Developer Intern  
+![Intern](https://img.shields.io/badge/Role-Backend_Developer_Intern-lightgrey) <br>
+**Korea University** | Jul 2020 – Sep 2020  
+- Contributed to a Python/Django project connecting student mentors and mentees.
 
+<br>
 
-![Haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hekoh99&show_icons=true&theme=radical)
+## 💻 Skills
 
+![Languages](https://img.shields.io/badge/Languages-Python%2C_C%2FC++%2C_SQL%2C_JavaScript%2C_Java-informational)  
+![Frameworks](https://img.shields.io/badge/Frameworks-React.js%2C_Spring_Boot-lightblue)  
+![Tools](https://img.shields.io/badge/Tools-Git%2C_Docker%2C_Wireshark-orange)
 
-## 🌱 I’m currently learning
-<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<br>
+
+## 📚 Currently Learning  
+![GoLang](https://img.shields.io/badge/Language-GoLang-yellow)
+
+<br>
+
+## 📫 Contact
+- [<img src="https://img.shields.io/badge/Haeun_LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/haeun-ko-a9b80a183/)
+- [<img src="https://img.shields.io/badge/Haeun_Website-663399?style=flat&logo=webtrees&logoColor=white"/>](https://https://hekoh99.github.io/)
+- <img src="https://img.shields.io/badge/haeun.ko99@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
