@@ -43,5 +43,5 @@
 
 ## 📫 Contact
 - [<img src="https://img.shields.io/badge/Haeun_LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/haeun-ko-a9b80a183/)
-- [<img src="https://img.shields.io/badge/Haeun_Website-663399?style=flat&logo=webtrees&logoColor=white"/>](https://https://hekoh99.github.io/)
+- [<img src="https://img.shields.io/badge/Haeun_Website-663399?style=flat&logo=webtrees&logoColor=white"/>](https://hekoh99.github.io/)
 - <img src="https://img.shields.io/badge/haeun.ko99@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
