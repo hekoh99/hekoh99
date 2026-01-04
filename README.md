@@ -16,21 +16,21 @@
 
 ### Software Developer 
 ![Developer](https://img.shields.io/badge/Role-Software_Developer-blue) <br>
-**CashIO** | Feb 2023 – Apr 2024  
+**CashIO** | Oct 2024 ~ present
 - Developing backend systems for an AI-driven accounting automation platform.
 - Analyze field feedback and telemetry to identify bottlenecks and design solutions under API/concurrency limits
 - Convert user requirements into technical specs and implement them into production-ready backend features
 
 ### Software Developer  
 ![Developer](https://img.shields.io/badge/Role-Software_Developer-blue) <br>
-**PNP Secure Ltd.** | Feb 2023 – Apr 2024  
+**PNP Secure Ltd.** | Feb 2023 ~ Apr 2024  
 - Developed and maintained features for DB access control software.
 - Designed scalable systems to handle high-volume traffic.
 - Led performance improvement initiatives, boosting code and query efficiency.
 
 ### Backend Developer Intern  
 ![Intern](https://img.shields.io/badge/Role-Backend_Developer_Intern-lightgrey) <br>
-**Gochin** | Jul 2020 – Sep 2020  
+**Gochin** | Jul 2020 ~ Sep 2020  
 - Contributed to a Python/Django project connecting student mentors and mentees.
 
 <br>
